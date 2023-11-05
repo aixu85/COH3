@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Essence.Editor.Modding">
+	<DataGenericPath>assets</DataGenericPath>
+	<DataIntermediatePath>cache</DataIntermediatePath>
+	<ID>0672125b-6ee1-45ea-b2ab-c9547198419e</ID>
+	<LocDBPath>locdb\Berlin 1945.locdb</LocDBPath>
+	<Type>Extension</Type>
+</Mod>

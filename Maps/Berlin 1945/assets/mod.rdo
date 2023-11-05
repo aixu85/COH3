@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Berlin 1945/-->
+	<DataObject Name="Berlin 1945" Type="Mod" Id="8440915157279532575" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">11778622731035718330</DataValue>
+			<!--Berlin 1945/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="11778622731035718330" OwnerId="8440915157279532575">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="0"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">16362557796651222088</DataValue>
+			<!--Berlin 1945/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="16362557796651222088" OwnerId="8440915157279532575">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="1422502834"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="2655098993"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="108139099"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1172991713"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+

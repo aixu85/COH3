@@ -1,0 +1,172 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		704,
+		704,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1000,
+			x = -173.40417,
+			y = -15.21457,
+		},
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1002,
+			x = -173.40417,
+			y = -6.52053,
+		},
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1004,
+			x = -173.40417,
+			y = 2.17351,
+		},
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1006,
+			x = -173.40417,
+			y = 10.86755,
+		},
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1001,
+			x = 173.40417,
+			y = -15.21457,
+		},
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1003,
+			x = 173.40417,
+			y = -6.52053,
+		},
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1005,
+			x = 173.40417,
+			y = 2.17351,
+		},
+		 
+		{
+			ebp_name = "starting_position_no_hq",
+			owner_id = 1007,
+			x = 173.40417,
+			y = 10.86755,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "Berlin 1945",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

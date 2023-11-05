@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Skorpion/-->
+	<DataObject Name="Skorpion" Type="Mod" Id="6409448023213819038" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">17469550387453257048</DataValue>
+			<!--Skorpion/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="17469550387453257048" OwnerId="6409448023213819038">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="1281296564"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="2756156277"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="4203169607"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1168641666"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">9882003516372177292</DataValue>
+			<!--Skorpion/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="9882003516372177292" OwnerId="6409448023213819038">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="1281296564"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="2756156277"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="4203169607"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1168641666"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+
