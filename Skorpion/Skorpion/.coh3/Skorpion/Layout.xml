@@ -8,8 +8,7 @@
     </LayoutAnchorablePaneGroup>
     <LayoutPanel Orientation="Vertical">
       <LayoutDocumentPane>
-        <LayoutDocument Title="ebps" ContentId="Category|ebps" LastActivationTimeStamp="11/06/2023 10:48:26" />
-        <LayoutDocument Title="weapon" IsSelected="True" IsLastFocusedDocument="True" ContentId="Category|weapon" LastActivationTimeStamp="11/06/2023 10:48:44" />
+        <LayoutDocument Title="ebps" IsSelected="True" IsLastFocusedDocument="True" ContentId="Category|ebps" LastActivationTimeStamp="11/06/2023 10:53:28" />
       </LayoutDocumentPane>
       <LayoutAnchorablePane Id="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" Name="anchorablesPane" DockHeight="300">
         <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" IsSelected="True" ContentId="Output" LastActivationTimeStamp="11/06/2023 10:23:00" />

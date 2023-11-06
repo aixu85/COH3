@@ -57,7 +57,7 @@
 			</template_reference>
 			<template_reference name="exts" value="ebpextensions\sight_ext" List.ItemID="-1857005710" List.ParentItemID="-1857005710">
 				<group name="sight_package">
-					<float name="outer_radius" value="70" overrideParent="True" />
+					<float name="outer_radius" value="75" overrideParent="True" />
 				</group>
 			</template_reference>
 			<template_reference name="exts" value="ebpextensions\type_ext" List.ItemID="798101727" List.ParentItemID="798101727">
@@ -198,7 +198,7 @@
 			</template_reference>
 			<template_reference name="exts" value="ebpextensions\sight_ext" List.ItemID="-1857005710" List.ParentItemID="-1857005710">
 				<group name="sight_package">
-					<float name="outer_radius" value="70" overrideParent="True" />
+					<float name="outer_radius" value="75" overrideParent="True" />
 				</group>
 			</template_reference>
 			<template_reference name="exts" value="ebpextensions\type_ext" List.ItemID="798101727" List.ParentItemID="798101727">
